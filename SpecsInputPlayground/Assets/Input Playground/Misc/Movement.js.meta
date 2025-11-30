@@ -1,0 +1,72 @@
+- !<AssetImportMetadata/f4e016cb-5c8f-4901-9267-02b8f62dfe0f>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 2d5aaa87-4c7b-4374-8ee3-293f1aa46c11
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 2d5aaa87-4c7b-4374-8ee3-293f1aa46c11
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 66fb744d-3cb4-4bb0-a3a2-70b209f22bb8
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/66fb744d-3cb4-4bb0-a3a2-70b209f22bb8>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 98671b27-a3be-482d-ad1a-93f26a627da0
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    anchorParent: false
+    cameraObject: false
+    enabled: false
+    invertLook: false
+    invertPosition: false
+    lookWeight: false
+    maxX: false
+    minX: false
+    posDeadzone: false
+    posSensitivity: false
+    posUseRelativeZero: false
+    posWeight: false
+    smoothTime: false
+    useLookTracking: false
+    usePositionTracking: false
+    yawLimitDeg: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - anchorParent: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      cameraObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      enabled: true
+      minX: !<float> -30.000000
+      maxX: !<float> 30.000000
+      smoothTime: 0.080000
+      usePositionTracking: true
+      posUseRelativeZero: true
+      posSensitivity: !<float> 1.000000
+      posDeadzone: 0.020000
+      posWeight: !<float> 1.000000
+      invertPosition: false
+      useLookTracking: false
+      yawLimitDeg: !<float> 45.000000
+      lookWeight: !<float> 1.000000
+      invertLook: false
+  ScriptTypes:
+    -
+      {}

@@ -1,0 +1,62 @@
+- !<AssetImportMetadata/0f068c5e-53e0-469a-9b89-a39948519a99>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> ab4fb962-a248-4932-80fb-926cff8e1a45
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> ab4fb962-a248-4932-80fb-926cff8e1a45
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> a41a3f79-c804-428a-8fdf-10dd86727127
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/a41a3f79-c804-428a-8fdf-10dd86727127>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 3de9eb9e-928b-446b-81d1-eb84279441bc
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    anchorParent: false
+    cameraObject: false
+    enabled: false
+    invertPosition: false
+    maxX: false
+    minX: false
+    posDeadzone: false
+    posSensitivity: false
+    posUseRelativeZero: false
+    posWeight: false
+    smoothTime: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - anchorParent: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      cameraObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      enabled: true
+      minX: !<float> -30.000000
+      maxX: !<float> 30.000000
+      smoothTime: 0.080000
+      posUseRelativeZero: true
+      posSensitivity: !<float> 1.000000
+      posDeadzone: 0.020000
+      posWeight: !<float> 1.000000
+      invertPosition: false
+  ScriptTypes:
+    -
+      {}

@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    d96a3576-b60a-4839-8ddf-810d1b5b4b54: 0ee9f943-e316-4600-8a0d-4bbb1a2127b5/5e2d1c8282fec3a3b5123491e296a9b9/Data/mixkit-hand-tribal-drum-562.wav
+  Assets:
+    - !<FileAudioTrack/d96a3576-b60a-4839-8ddf-810d1b5b4b54>
+      PackagePath: ""
+  SourceHash: 5e2d1c8282fec3a3b5123491e296a9b9
+  FileHash: 31bca280eb41db1564f34b71dbfe4b35
+  NativePackageItems:
+    []

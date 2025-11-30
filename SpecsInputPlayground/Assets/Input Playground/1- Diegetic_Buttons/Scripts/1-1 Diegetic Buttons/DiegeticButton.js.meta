@@ -1,0 +1,44 @@
+- !<AssetImportMetadata/b24b2050-87de-d5f0-27d3-c36196300d35>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 97dc1497-7ea0-41b5-a1eb-ceca69fa4df9
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 97dc1497-7ea0-41b5-a1eb-ceca69fa4df9
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 3b3d9b84-72ac-495d-894c-ad6c4592d7b9
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/3b3d9b84-72ac-495d-894c-ad6c4592d7b9>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 2a8b62f8-3f07-4895-a59b-c4d859116a3f
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    checkPressTime: false
+    objectWithTweens: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - objectWithTweens: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      checkPressTime: 0.500000
+  ScriptTypes:
+    -
+      {}

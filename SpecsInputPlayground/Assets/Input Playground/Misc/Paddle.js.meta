@@ -1,0 +1,54 @@
+- !<AssetImportMetadata/bd955c05-f823-45c3-90f4-89d96236d316>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 7eb0999b-4b10-41af-82d8-17bba0b83768
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 7eb0999b-4b10-41af-82d8-17bba0b83768
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 0c790cca-5e41-477d-8169-e2590aa98abb
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/0c790cca-5e41-477d-8169-e2590aa98abb>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: eeb0fea2-0a7c-4492-89d5-b593fd1280b0
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    anchorParent: false
+    ballName: false
+    facingBias: false
+    hitCooldown: false
+    impulseStrength: false
+    paddleCollider: false
+    zeroBallVelocityFirst: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - anchorParent: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      paddleCollider: !<reference.ColliderComponent> 00000000-0000-0000-0000-000000000000
+      impulseStrength: !<float> 1200.000000
+      ballName: Ball
+      facingBias: !<float> 1.000000
+      hitCooldown: 0.080000
+      zeroBallVelocityFirst: true
+  ScriptTypes:
+    -
+      {}

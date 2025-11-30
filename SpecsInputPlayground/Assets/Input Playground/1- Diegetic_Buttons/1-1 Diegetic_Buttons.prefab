@@ -1,0 +1,502 @@
+- !<ObjectPrefab/3571e6d1-cb3b-4e95-a8cc-c99128db7bca>
+  PackagePath: ""
+  objects:
+    - !<own> 49fc4489-d196-4479-bab2-c83dcc949b3f
+  LazyLoading: false
+  RetainAssets: true
+- !<ScriptComponent/03d3bfb3-445d-4fa3-960f-77794421c0dc>
+  PrefabRemaps:
+    []
+  Name: Interactable
+  Enabled: true
+  ScriptAsset: !<reference> 652e631a-22d0-4941-9f74-2943df59f34c
+  ScriptInputsDefault:
+    enableInstantDrag: true
+    isScrollable: true
+    allowMultipleInteractors: true
+    enablePokeDirectionality: true
+    acceptableXDirections: true
+    acceptableYDirections: true
+    acceptableZDirections: true
+    useFilteredPinch: true
+    isSynced: true
+    acceptableSyncInteractionTypes: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      targetingMode: !<float> 4.000000
+      enableInstantDrag: false
+      isScrollable: false
+      allowMultipleInteractors: true
+      enablePokeDirectionality: false
+      acceptableXDirections: !<float> 0.000000
+      acceptableYDirections: !<float> 0.000000
+      acceptableZDirections: !<float> 1.000000
+      useFilteredPinch: false
+      isSynced: false
+      acceptableSyncInteractionTypes: !<float> 7.000000
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/0825c424-74b9-4edd-be6b-91fda46eeb3f>
+  PrefabRemaps:
+    []
+  Name: Button_TS
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 10.000000, y: 1.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 10.000000, y: 2.000000, z: 10.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> be0830e4-3ce6-4bed-8f91-e2f00acd7695
+    - !<own> 2b699c35-9399-4176-b6a0-f6bae19810ef
+    - !<own> 1b5b3597-3c21-419c-a8e0-091ae3604679
+    - !<own> 1df698c5-fac2-4cbd-95ff-c3fb88021af4
+    - !<own> 4b0be5a1-3697-48bf-b5ee-ee4fe7bc3c68
+    - !<own> 92c149bf-5ce5-44af-88e1-14906a7fceab
+    - !<own> ced7c3e2-5976-4ff5-b5d4-014a9720948d
+- !<ScriptComponent/083cc3bf-00e9-4162-aaa9-4200d8f77cfa>
+  PrefabRemaps:
+    []
+  Name: InteractableSquishFeedback
+  Enabled: true
+  ScriptAsset: !<reference> 17d0cf2d-c96b-42fd-8a63-cf7e9751e882
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      squishObject: !<reference.SceneObject> 4965748f-c64c-468d-a2bb-dbd7a16329cd
+      verticalSquish: 0.800000
+      horizontalSquish: 0.800000
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/1b5b3597-3c21-419c-a8e0-091ae3604679>
+  PrefabRemaps:
+    []
+  Name: InteractableSquishFeedback
+  Enabled: true
+  ScriptAsset: !<reference> 17d0cf2d-c96b-42fd-8a63-cf7e9751e882
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      squishObject: !<reference.SceneObject> 0825c424-74b9-4edd-be6b-91fda46eeb3f
+      verticalSquish: 0.800000
+      horizontalSquish: 0.800000
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/1df698c5-fac2-4cbd-95ff-c3fb88021af4>
+  PrefabRemaps:
+    []
+  Name: PinchButton
+  Enabled: true
+  ScriptAsset: !<reference> a54c5722-d3fb-4aa5-97ff-f7425978bc59
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      editEventCallbacks: true
+      customFunctionForOnButtonPinched: !<reference.ScriptComponent> 4b0be5a1-3697-48bf-b5ee-ee4fe7bc3c68
+      onButtonPinchedFunctionNames: !<string[]>
+        - onButtonPressed
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/2b699c35-9399-4176-b6a0-f6bae19810ef>
+  PrefabRemaps:
+    []
+  Name: Interactable
+  Enabled: true
+  ScriptAsset: !<reference> 652e631a-22d0-4941-9f74-2943df59f34c
+  ScriptInputsDefault:
+    enableInstantDrag: true
+    isScrollable: true
+    allowMultipleInteractors: true
+    enablePokeDirectionality: true
+    acceptableXDirections: true
+    acceptableYDirections: true
+    acceptableZDirections: true
+    useFilteredPinch: true
+    isSynced: true
+    acceptableSyncInteractionTypes: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      targetingMode: !<float> 4.000000
+      enableInstantDrag: false
+      isScrollable: false
+      allowMultipleInteractors: true
+      enablePokeDirectionality: false
+      acceptableXDirections: !<float> 0.000000
+      acceptableYDirections: !<float> 0.000000
+      acceptableZDirections: !<float> 1.000000
+      useFilteredPinch: false
+      isSynced: false
+      acceptableSyncInteractionTypes: !<float> 7.000000
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/3a5158d6-0401-4d37-b871-ed6926831dbf>
+  PrefabRemaps:
+    []
+  Name: PinchButton
+  Enabled: true
+  ScriptAsset: !<reference> a54c5722-d3fb-4aa5-97ff-f7425978bc59
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      editEventCallbacks: true
+      customFunctionForOnButtonPinched: !<reference.ScriptComponent> 41316fa0-6b6f-4415-a052-9e0081d5fb23
+      onButtonPinchedFunctionNames: !<string[]>
+        - onButtonPressed
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/41316fa0-6b6f-4415-a052-9e0081d5fb23>
+  PrefabRemaps:
+    []
+  Name: DiegeticButton
+  Enabled: true
+  ScriptAsset: !<reference> 97dc1497-7ea0-41b5-a1eb-ceca69fa4df9
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      objectWithTweens: !<reference.SceneObject> 4965748f-c64c-468d-a2bb-dbd7a16329cd
+      checkPressTime: !<float> 2.000000
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/4965748f-c64c-468d-a2bb-dbd7a16329cd>
+  PrefabRemaps:
+    []
+  Name: Button_JS
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -10.000000, y: 1.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 10.000000, y: 2.000000, z: 10.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> afd0d7ab-0c86-45e8-aee3-98544188d927
+    - !<own> 03d3bfb3-445d-4fa3-960f-77794421c0dc
+    - !<own> 083cc3bf-00e9-4162-aaa9-4200d8f77cfa
+    - !<own> 3a5158d6-0401-4d37-b871-ed6926831dbf
+    - !<own> b59ff2eb-a7a1-47c2-a23a-1f745dd5aa15
+    - !<own> 7a151aa5-03d9-40ad-a774-44dd257755fe
+    - !<own> 41316fa0-6b6f-4415-a052-9e0081d5fb23
+- !<SceneObject/49fc4489-d196-4479-bab2-c83dcc949b3f>
+  PrefabRemaps:
+    - 03d3bfb3-445d-4fa3-960f-77794421c0dc: 03d3bfb3-445d-4fa3-69f0-8886bbde3f23
+    - 0825c424-74b9-4edd-be6b-91fda46eeb3f: 0825c424-74b9-4edd-4194-6e025b9114c0
+    - 083cc3bf-00e9-4162-aaa9-4200d8f77cfa: 083cc3bf-00e9-4162-5556-bdff27088305
+    - 1b5b3597-3c21-419c-a8e0-091ae3604679: 1b5b3597-3c21-419c-571f-f6e51c9fb986
+    - 1df698c5-fac2-4cbd-95ff-c3fb88021af4: 1df698c5-fac2-4cbd-6a00-3c0477fde50b
+    - 2b699c35-9399-4176-b6a0-f6bae19810ef: 2b699c35-9399-4176-495f-09451e67ef10
+    - 3a5158d6-0401-4d37-b871-ed6926831dbf: 3a5158d6-0401-4d37-478e-1296d97ce240
+    - 41316fa0-6b6f-4415-a052-9e0081d5fb23: 41316fa0-6b6f-4415-5fad-61ff7e2a04dc
+    - 4965748f-c64c-468d-a2bb-dbd7a16329cd: 4965748f-c64c-468d-5d44-24285e9cd632
+    - 49fc4489-d196-4479-bab2-c83dcc949b3f: 49fc4489-d196-4479-454d-37c2336b64c0
+    - 4b0be5a1-3697-48bf-b5ee-ee4fe7bc3c68: 4b0be5a1-3697-48bf-4a11-11b01843c397
+    - 58959960-167a-49fa-ad4e-76c0c5bc10bc: 58959960-167a-49fa-52b1-893f3a43ef43
+    - 7a151aa5-03d9-40ad-a774-44dd257755fe: 7a151aa5-03d9-40ad-588b-bb22da88aa01
+    - 92c149bf-5ce5-44af-88e1-14906a7fceab: 92c149bf-5ce5-44af-771e-eb6f95803154
+    - afd0d7ab-0c86-45e8-aee3-98544188d927: afd0d7ab-0c86-45e8-511c-67abbe7726d8
+    - b59ff2eb-a7a1-47c2-a23a-1f745dd5aa15: b59ff2eb-a7a1-47c2-5dc5-e08ba22a55ea
+    - b64e031c-bfed-4320-bc25-02b56bc36976: b64e031c-bfed-4320-43da-fd4a943c9689
+    - be0830e4-3ce6-4bed-8f91-e2f00acd7695: be0830e4-3ce6-4bed-706e-1d0ff532896a
+    - ced7c3e2-5976-4ff5-b5d4-014a9720948d: ced7c3e2-5976-4ff5-4a2b-feb568df6b72
+  Name: 1-1 Diegetic_Buttons
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0825c424-74b9-4edd-be6b-91fda46eeb3f
+    - !<own> 4965748f-c64c-468d-a2bb-dbd7a16329cd
+    - !<own> b64e031c-bfed-4320-bc25-02b56bc36976
+  Components:
+    []
+- !<ScriptComponent/4b0be5a1-3697-48bf-b5ee-ee4fe7bc3c68>
+  PrefabRemaps:
+    []
+  Name: DiegeticButton
+  Enabled: true
+  ScriptAsset: !<reference> 11d95256-c0e9-4e6a-b51c-508095f791e3
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      objectWithTweens: !<reference.SceneObject> 0825c424-74b9-4edd-be6b-91fda46eeb3f
+      checkPressTime: !<float> 2.000000
+  ScriptTypes:
+    "":
+      {}
+- !<RenderMeshVisual/58959960-167a-49fa-ad4e-76c0c5bc10bc>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 9d8dc406-90d6-4f43-9697-a222736820d8
+  Mesh: !<reference> f4484cf6-471f-4491-80df-98b6ab2c4fb6
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ScriptComponent/7a151aa5-03d9-40ad-a774-44dd257755fe>
+  PrefabRemaps:
+    []
+  Name: TweenTransform
+  Enabled: true
+  ScriptAsset: !<reference> c0359509-9eb1-4630-b6c4-e6f477d226ba
+  ScriptInputsDefault:
+    sceneObjectReference: true
+    loopType: true
+    type: true
+    movementType: true
+    from: true
+    to: true
+    offset: true
+    additive: true
+    time: true
+    isLocal: true
+    easingType: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sceneObjectReference: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      tweenName: Reset
+      playAutomatically: false
+      loopType: 0
+      type: 0
+      movementType: 0
+      startInput: !<Vec3> {x: -10.000000, y: -2.000000, z: 0.000000}
+      endInput: !<Vec3> {x: -10.000000, y: 1.000000, z: 0.000000}
+      from: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      to: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      offset: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      additive: false
+      time: !<float> 1.000000
+      delay: !<float> 2.000000
+      isLocal: true
+      easingFunction: Elastic
+      easingType: Out
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/92c149bf-5ce5-44af-88e1-14906a7fceab>
+  PrefabRemaps:
+    []
+  Name: TweenTransform
+  Enabled: true
+  ScriptAsset: !<reference> c0359509-9eb1-4630-b6c4-e6f477d226ba
+  ScriptInputsDefault:
+    sceneObjectReference: true
+    loopType: true
+    type: true
+    movementType: true
+    from: true
+    to: true
+    offset: true
+    additive: true
+    delay: true
+    isLocal: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sceneObjectReference: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      tweenName: pressed
+      playAutomatically: false
+      loopType: 0
+      type: 0
+      movementType: 0
+      startInput: !<Vec3> {x: 10.000000, y: 1.000000, z: 0.000000}
+      endInput: !<Vec3> {x: 10.000000, y: -2.000000, z: 0.000000}
+      from: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      to: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      offset: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      additive: false
+      time: 1.500000
+      delay: !<float> 0.000000
+      isLocal: true
+      easingFunction: Elastic
+      easingType: In
+  ScriptTypes:
+    "":
+      {}
+- !<RenderMeshVisual/afd0d7ab-0c86-45e8-aee3-98544188d927>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 1661ef20-6781-4043-8993-8caeaa5bacb6
+  Mesh: !<reference> e542623c-1432-4bfa-881d-a28905bd9e57
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ScriptComponent/b59ff2eb-a7a1-47c2-a23a-1f745dd5aa15>
+  PrefabRemaps:
+    []
+  Name: TweenTransform
+  Enabled: true
+  ScriptAsset: !<reference> c0359509-9eb1-4630-b6c4-e6f477d226ba
+  ScriptInputsDefault:
+    sceneObjectReference: true
+    loopType: true
+    type: true
+    movementType: true
+    from: true
+    to: true
+    offset: true
+    additive: true
+    delay: true
+    isLocal: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sceneObjectReference: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      tweenName: Pressed
+      playAutomatically: false
+      loopType: 0
+      type: 0
+      movementType: 0
+      startInput: !<Vec3> {x: -10.000000, y: 1.000000, z: 0.000000}
+      endInput: !<Vec3> {x: -10.000000, y: -2.000000, z: 0.000000}
+      from: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      to: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      offset: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      additive: false
+      time: 1.500000
+      delay: !<float> 0.000000
+      isLocal: true
+      easingFunction: Elastic
+      easingType: In
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/b64e031c-bfed-4320-bc25-02b56bc36976>
+  PrefabRemaps:
+    []
+  Name: Occlusion Plane
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 58959960-167a-49fa-ad4e-76c0c5bc10bc
+- !<RenderMeshVisual/be0830e4-3ce6-4bed-8f91-e2f00acd7695>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 1661ef20-6781-4043-8993-8caeaa5bacb6
+  Mesh: !<reference> e542623c-1432-4bfa-881d-a28905bd9e57
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ScriptComponent/ced7c3e2-5976-4ff5-b5d4-014a9720948d>
+  PrefabRemaps:
+    []
+  Name: TweenTransform
+  Enabled: true
+  ScriptAsset: !<reference> c0359509-9eb1-4630-b6c4-e6f477d226ba
+  ScriptInputsDefault:
+    sceneObjectReference: true
+    loopType: true
+    type: true
+    movementType: true
+    from: true
+    to: true
+    offset: true
+    additive: true
+    time: true
+    isLocal: true
+    easingType: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sceneObjectReference: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      tweenName: reset
+      playAutomatically: false
+      loopType: 0
+      type: 0
+      movementType: 0
+      startInput: !<Vec3> {x: 10.000000, y: -2.000000, z: 0.000000}
+      endInput: !<Vec3> {x: 10.000000, y: 1.000000, z: 0.000000}
+      from: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      to: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      offset: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      additive: false
+      time: !<float> 1.000000
+      delay: !<float> 2.000000
+      isLocal: true
+      easingFunction: Elastic
+      easingType: Out
+  ScriptTypes:
+    "":
+      {}

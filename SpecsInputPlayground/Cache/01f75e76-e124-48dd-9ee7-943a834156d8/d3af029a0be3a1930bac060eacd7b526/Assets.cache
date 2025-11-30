@@ -1,0 +1,3166 @@
+- !<AssetCache>
+  AssetFiles:
+    {}
+  Assets:
+    []
+  SourceHash: d3af029a0be3a1930bac060eacd7b526
+  FileHash: 885134e5084f66a83412574ca40cb7ad
+  NativePackageItems:
+    - !<own> 98194768-8647-bcbd-56d4-ea9d7be0e61e
+    - !<own> d9ead965-966c-d789-b8b1-b7057c9b1f9b
+    - !<own> 4bdd29d5-f0aa-4c97-3a5d-3b02f68fdb9a
+    - !<own> 56b7ea15-8b30-3d4a-06a7-a67153469c54
+    - !<own> 90f3a60c-690f-47a2-1894-4235d1344862
+    - !<own> a20f3cd2-4eb5-fcab-db84-1c69183e2e19
+    - !<own> 9e3c1332-b3fd-49ea-b7f7-860837ea3b1d
+    - !<own> d92d9713-f6f8-2981-f22c-fdc01d1ac3fb
+    - !<own> 8d8d0e73-2c47-5bfd-dde9-87bf1cef8976
+    - !<own> 7fbb3932-032e-1576-7e71-9824771a35bb
+    - !<own> e7440eb4-ff22-93a4-189c-1a8f7865fb00
+    - !<own> 346da0bb-2371-bbcf-520f-e52868737ddd
+    - !<own> 61de6b2a-240f-b61d-9092-0e354da8116b
+    - !<own> 9c3467c1-4926-d7c2-5307-2dd2ded0def4
+    - !<own> 2611e635-547d-6c37-d37d-1c6646cb1dbb
+    - !<own> 32ba5357-c6d3-5252-cd1c-281ef911c746
+    - !<own> 4afa9b1b-eacf-d5d0-3554-2540fc190991
+    - !<own> 822a283b-0f8e-4f2a-4f76-9498a512b0d2
+    - !<own> 08543a24-0780-fa6e-436d-0f36ad629c89
+    - !<own> 8ca838e0-a70f-a3ce-b4c9-69925b0a0410
+    - !<own> 30b113b8-9559-ad2d-5eff-713d7acbab5a
+    - !<own> 80b398cc-0eb7-0bb1-f316-4353ec3ca62b
+    - !<own> 82ecde17-ac7e-3906-18cd-ca5696f4d146
+    - !<own> 5abbdea5-531b-c101-34fb-0c0ed9172594
+    - !<own> 6d68134c-4c51-6d3f-d575-c003e44b1480
+    - !<own> 045b166c-6107-d081-0d85-f9ea201e25e0
+    - !<own> a1ade36e-756c-1d84-4818-62f0b31c6f71
+    - !<own> 7753b400-9e25-d1ee-9cef-81c66e2eca09
+    - !<own> 0029b443-787d-c2bf-dad1-27847710b61c
+    - !<own> aa62013a-b46e-3dd6-f912-c8a5d08ca995
+    - !<own> 7466be43-7a34-78c7-5868-a3e1c92518b1
+    - !<own> 7fad533d-2342-77d7-e281-7116b33d7594
+    - !<own> feae732d-4d70-3fd5-023e-b6662a2c440d
+    - !<own> 7b127538-e39a-d70d-7fab-91757947b25a
+    - !<own> 1a51cce8-6f04-a857-2ea1-14a124ca96a3
+    - !<own> ebcb9987-c02a-54e5-b03b-79d109d0c150
+    - !<own> 4e9b54ed-c8d3-442f-527f-8a5ef5771f4a
+- !<AssetImportMetadata/0029b443-787d-c2bf-dad1-27847710b61c>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 4af2c87d-f235-4f7e-beb0-062f4a8ded6d
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 4af2c87d-f235-4f7e-beb0-062f4a8ded6d
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 7d08830f-0b34-460c-b6df-6e06a52e5fc6
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/00598bbf-8366-4938-624a-73e5596db3c4>
+  PrefabRemaps:
+    []
+  Name: ML Component_face
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -68.671654, y: -11.318619, z: 50.966156}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f7f8fc02-8897-49bb-724c-64199f0881b4
+- !<SceneObject/02c1f0f4-bb52-4df7-779b-75c614b0293c>
+  PrefabRemaps:
+    []
+  Name: Sclera
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5047ff06-62d6-438f-7b84-72955eea9988
+- !<AssetImportMetadata/045b166c-6107-d081-0d85-f9ea201e25e0>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 5ee94438-9b16-4686-9768-542ab95a5047
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 5ee94438-9b16-4686-9768-542ab95a5047
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 84b305ae-59f6-4eea-b3bb-01f7c20062c6
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<RenderMeshVisual/04a6b1e6-4cd7-4779-4a2d-8dd8a3598bdf>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> fa7544a3-6a96-4a46-bd89-281249f4e5ad
+  Mesh: !<reference> a0494147-c370-4019-8ebf-931e0f6b1bd8
+  Skin: !<reference> c97d30c8-9a10-424b-402e-a02a49e07d3c
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    bs_headSize: 1.000000
+    bs_shoulder_L: 0.000000
+    bs_shoulder_R: 0.000000
+- !<Head/083f4661-0b0e-4814-44cf-6c3673701387>
+  PrefabRemaps:
+    []
+  Name: Head Binding
+  Enabled: true
+  AttachmentPointType: LeftEyeballCenter
+  FaceIndex: 0
+  AttachedBarycentricVertex:
+    indices:
+      - 0
+      - 0
+      - 0
+    weights:
+      - 0.000000
+      - 0.000000
+      - 0.000000
+  TrackingScope: !<reference> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/08543a24-0780-fa6e-436d-0f36ad629c89>
+  ImportedAssetIds:
+    FileMLAsset: !<reference> 72dae941-ebb5-40de-bd1e-b106e75a2d2e
+  ImporterName: FileMLAssetImporter
+  PrimaryAsset: !<reference> 72dae941-ebb5-40de-bd1e-b106e75a2d2e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<FileMLAssetImporterSettings>
+    Inputs:
+      - !<MLInput>
+        Name: landmarks+camera
+        Shape: {x: 1.000000, y: 1.000000, z: 139.000000}
+        Normalizations:
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+        Transformer: ~
+        Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    Outputs:
+      - !<MLOutput>
+        Name: predictions
+        Shape: {x: 1.000000, y: 1.000000, z: 117.000000}
+        Normalizations:
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+        InputName: ""
+        OutputTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/0a7b852d-c3b6-46b1-7d8d-f72c1557bcce>
+  PrefabRemaps:
+    []
+  Name: Bitmoji Face
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1a685457-0140-4e0b-4285-be15725986dd
+    - !<own> de31e33a-2b5d-4ee7-45af-23a469e268b1
+    - !<own> f31a53f6-3772-4f3e-7276-a6adadccef0c
+  Components:
+    - !<own> bb27bdbb-5547-4048-6afa-a5f0bfbc6903
+- !<SceneObject/0e29e758-1040-4922-4e63-12cc14fbb244>
+  PrefabRemaps:
+    []
+  Name: bind_GRP
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0eb067b3-4123-440a-468d-a2eaed2ed2ba
+  Components:
+    []
+- !<SceneObject/0eb067b3-4123-440a-468d-a2eaed2ed2ba>
+  PrefabRemaps:
+    []
+  Name: C_head_bind_JNT
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 156.543198, z: -0.763276}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> abd39c91-84b3-4a30-7a13-c378ae32f6a0
+  Components:
+    []
+- !<RenderMeshVisual/0f805418-97b7-44e8-6e4d-669cec20a695>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> fa7544a3-6a96-4a46-bd89-281249f4e5ad
+  Mesh: !<reference> a0494147-c370-4019-8ebf-931e0f6b1bd8
+  Skin: !<reference> c97d30c8-9a10-424b-402e-a02a49e07d3c
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    bs_headSize: 1.000000
+    bs_shoulder_L: 0.000000
+    bs_shoulder_R: 0.000000
+- !<SceneObject/101defb2-6ecd-443e-6c33-9e50b8275044>
+  PrefabRemaps:
+    []
+  Name: Choroid
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e4ff136d-80d0-4014-5c06-d3835123aef7
+- !<AssetImportMetadata/1a51cce8-6f04-a857-2ea1-14a124ca96a3>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 9c8fe4ce-d8d3-49c2-828d-49348aab5282
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 9c8fe4ce-d8d3-49c2-828d-49348aab5282
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 4236707c-5136-453a-a22e-9397513d21d0
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/1a685457-0140-4e0b-4285-be15725986dd>
+  PrefabRemaps:
+    []
+  Name: Effects
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 100.000000, y: 0.000000, z: -10.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2b5c48e6-a94d-48ee-64ff-add92f46c4a6
+    - !<own> cc89850e-84dc-4afb-4264-ef5a543d008c
+    - !<own> 92c5d8a8-9314-4464-7039-7d72bec31509
+  Components:
+    []
+- !<TypeScriptAssetData/1c899b1b-2350-4fff-984e-952e1f0df3ec>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 3ba12d77-daf5-43a1-9751-995d22ce8af6
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    faceMesh: false
+    glassesML: false
+    head: false
+    leftEye: false
+    mlController: false
+    rightEye: false
+    tongueML: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - faceMesh: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      tongueML: !<reference.MLComponent> 00000000-0000-0000-0000-000000000000
+      glassesML: !<reference.MLComponent> 00000000-0000-0000-0000-000000000000
+      head: !<reference.Head> 00000000-0000-0000-0000-000000000000
+      mlController: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      leftEye: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      rightEye: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.RenderMeshVisual faceMesh
+    - // @input Component.MLComponent tongueML
+    - // @input Component.MLComponent glassesML
+    - // @input Component.Head head
+    - // @input AssignableType mlController
+    - // @input SceneObject leftEye
+    - // @input SceneObject rightEye
+- !<TypeScriptAssetData/2372a2be-060e-414d-bfa7-b0c32022a041>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 7be4590b-334a-4fb1-bbf3-b2cd33c2c333
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<TypeScriptAssetData/257c9781-be25-4b68-ab4c-b09c6a0b5b4f>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: b4e458d8-bd65-4013-b32f-ca798c9488a5
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<AssetImportMetadata/2611e635-547d-6c37-d37d-1c6646cb1dbb>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> c6debc0d-c366-4374-9e3d-14801f938194
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> c6debc0d-c366-4374-9e3d-14801f938194
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> 543704e4-ea5f-47b4-b6b0-8910d3615f08
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptComponent/281870f2-07d3-4220-7b47-a83d96270ff6>
+  PrefabRemaps:
+    []
+  Name: BitmojiFaceML
+  Enabled: true
+  ScriptAsset: !<reference> 6e4288a5-8d67-45c2-be25-2fb6c360f098
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      ml: !<reference.MLComponent> f7f8fc02-8897-49bb-724c-64199f0881b4
+      head: !<reference.Head> 80ac16e8-37df-46b2-5432-606bed520897
+      deviceTexture: !<reference.Texture> 847ab003-44a8-4485-a183-262e794a46ad
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/2b5c48e6-a94d-48ee-64ff-add92f46c4a6>
+  PrefabRemaps:
+    []
+  Name: Head Binding 0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 41764451-43eb-4788-4179-86dd031a8523
+  Components:
+    - !<own> 80ac16e8-37df-46b2-5432-606bed520897
+- !<RenderMeshVisual/2b70ca48-2ba2-4234-4d01-d540d5f78bb5>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> cf8fc978-984f-46fa-a67b-d1550c3f595a
+  Mesh: !<reference> 97dc8cc5-2f2b-4827-8e9f-6cb5a6362b2a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<AssetImportMetadata/30b113b8-9559-ad2d-5eff-713d7acbab5a>
+  ImportedAssetIds:
+    NativePackageDescriptor: !<reference> 1110dc13-1206-47eb-8689-2aad78078560
+  ImporterName: NativePackageDescriptorImporter
+  PrimaryAsset: !<reference> 1110dc13-1206-47eb-8689-2aad78078560
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/32ba5357-c6d3-5252-cd1c-281ef911c746>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> e2199036-2c1b-481f-8062-de1aa60d4123
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> e2199036-2c1b-481f-8062-de1aa60d4123
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> ebfa300c-ac98-4c76-a393-493470af3c63
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/340a1517-bacc-4ffe-9e04-d0d7aefddd46>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 8bb8c651-f853-4c5a-8b78-e64708cb36d5
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<AssetImportMetadata/346da0bb-2371-bbcf-520f-e52868737ddd>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> ae1af779-86e3-48a3-8aa0-14dc46309266
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> ae1af779-86e3-48a3-8aa0-14dc46309266
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> bb1f5347-be84-4af5-a68e-32cc05a5260f
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<MLComponent/35a3e4e0-34b8-486e-4167-2d9a42605d5a>
+  PrefabRemaps:
+    []
+  Name: ML Component
+  Enabled: true
+  RenderOrder: 4
+  AutoBuild: true
+  AutoRun: true
+  Inputs:
+    - !<MLInput>
+      Name: input
+      Shape: {x: 64.000000, y: 64.000000, z: 3.000000}
+      Normalizations:
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+      Transformer:
+        stretch: true
+        alignment.horizontal: Center
+        alignment.vertical: Center
+        fill: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        flipX: false
+        flipY: false
+        rotation: None
+      Texture: !<reference> c1ad9d1f-6ce2-4ab3-aa15-763bccb00787
+  Outputs:
+    - !<MLOutput>
+      Name: prob
+      Shape: {x: 1.000000, y: 1.000000, z: 1.000000}
+      Normalizations:
+        - scale: 1.000000
+          bias: 0.000000
+      InputName: ""
+      OutputTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  Model: !<reference> f0324282-d1e3-4fac-bbab-2eb4156c29a7
+- !<SceneObject/38d9ee23-a98b-4bf7-73f7-786aed46a17e>
+  PrefabRemaps:
+    []
+  Name: Right Eye
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 02c1f0f4-bb52-4df7-779b-75c614b0293c
+    - !<own> c91d0860-0aef-49c6-6cab-10a35281fdd6
+  Components:
+    - !<own> a553860e-da89-4855-528e-4f3eca558d45
+- !<SceneObject/41764451-43eb-4788-4179-86dd031a8523>
+  PrefabRemaps:
+    []
+  Name: Face Mesh
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6c6ba70c-8ba6-4c9f-4ef6-f772d351b4ce
+- !<SceneObject/41814ea7-3f29-469b-7ebd-b559771c2ec2>
+  PrefabRemaps:
+    []
+  Name: Sclera
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ee2f09ae-fdd7-4f5f-7e10-fd3487154bb9
+- !<TypeScriptAssetData/4236707c-5136-453a-a22e-9397513d21d0>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: b050c110-db41-434c-830f-7ad13b43811a
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/43f682b4-abd9-4f77-5707-b1a0a412832e>
+  PrefabRemaps:
+    []
+  Name: CHEST
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0e29e758-1040-4922-4e63-12cc14fbb244
+    - !<own> d5866160-7ffa-484a-4bd1-68f07247e2ed
+  Components:
+    []
+- !<AssetImportMetadata/4afa9b1b-eacf-d5d0-3554-2540fc190991>
+  ImportedAssetIds:
+    FileMLAsset: !<reference> f0324282-d1e3-4fac-bbab-2eb4156c29a7
+  ImporterName: FileMLAssetImporter
+  PrimaryAsset: !<reference> f0324282-d1e3-4fac-bbab-2eb4156c29a7
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<FileMLAssetImporterSettings>
+    Inputs:
+      - !<MLInput>
+        Name: input
+        Shape: {x: 64.000000, y: 64.000000, z: 3.000000}
+        Normalizations:
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+          - scale: 1.000000
+            bias: 0.000000
+        Transformer:
+          stretch: true
+          alignment.horizontal: Center
+          alignment.vertical: Center
+          fill: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+          flipX: false
+          flipY: false
+          rotation: None
+        Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    Outputs:
+      - !<MLOutput>
+        Name: prob
+        Shape: {x: 1.000000, y: 1.000000, z: 1.000000}
+        Normalizations:
+          - scale: 1.000000
+            bias: 0.000000
+        InputName: ""
+        OutputTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/4bdd29d5-f0aa-4c97-3a5d-3b02f68fdb9a>
+  ImportedAssetIds:
+    Texture: !<reference> 847ab003-44a8-4485-a183-262e794a46ad
+  ImporterName: DeviceCameraTextureImporter
+  PrimaryAsset: !<reference> 847ab003-44a8-4485-a183-262e794a46ad
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/4e9b54ed-c8d3-442f-527f-8a5ef5771f4a>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> d558339a-df10-4702-a6f0-2676cdb11bc9
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> d558339a-df10-4702-a6f0-2676cdb11bc9
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> ef83be6c-0b11-4285-95ea-a3cf40ef34e3
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<RenderMeshVisual/5047ff06-62d6-438f-7b84-72955eea9988>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> cf8fc978-984f-46fa-a67b-d1550c3f595a
+  Mesh: !<reference> 56486bf7-6b81-4800-9977-892816042096
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<TypeScriptAssetData/5419c443-1b71-4237-98cd-6611305fb76b>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 9b496a6c-3617-4e40-a0fc-471302de5252
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<ObjectPrefabAssetData/543704e4-ea5f-47b4-b6b0-8910d3615f08>
+  Prototype: !<ObjectOwner/675f5657-54d5-4091-a6bc-16f7ba3faccd>
+    PackagePath: ""
+    objects:
+      - !<own> 887d863b-2721-40ac-55d8-d75e8ed5fcb0
+- !<AssetImportMetadata/56b7ea15-8b30-3d4a-06a7-a67153469c54>
+  ImportedAssetIds:
+    Material: !<reference> cf8fc978-984f-46fa-a67b-d1550c3f595a
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> cf8fc978-984f-46fa-a67b-d1550c3f595a
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/5abbdea5-531b-c101-34fb-0c0ed9172594>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 0f7cbc7f-b16c-4974-8a0f-d51e96706579
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 0f7cbc7f-b16c-4974-8a0f-d51e96706579
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> cae382d4-4e81-4491-ae2f-6be75b64942c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/5b1b9ca0-429a-4a24-9c30-64925be8c76f>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 437734a9-b79a-45d4-9a31-ffc92d4c6ecf
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<AssetImportMetadata/61de6b2a-240f-b61d-9092-0e354da8116b>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> 4404610b-8ad4-467f-8a90-1bb7e2c52e09
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 4404610b-8ad4-467f-8a90-1bb7e2c52e09
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/6a98c0ac-ac38-40d5-6754-ebda0e89ec83>
+  PrefabRemaps:
+    []
+  Name: occluder_GEO
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 167.763504, z: 1.760475}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 11.105125, y: 11.105125, z: 11.105125}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 0f805418-97b7-44e8-6e4d-669cec20a695
+- !<RenderMeshVisual/6c6ba70c-8ba6-4c9f-4ef6-f772d351b4ce>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> cf8fc978-984f-46fa-a67b-d1550c3f595a
+  Mesh: !<reference> 05c17eaf-9342-4559-8e98-594838a7267e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<AssetImportMetadata/6d68134c-4c51-6d3f-d575-c003e44b1480>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 614edd35-57c4-4b93-8659-ea6ad8c817be
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 614edd35-57c4-4b93-8659-ea6ad8c817be
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> bd597f98-d897-4ed4-aa43-d6d2a897927a
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/6ddd0031-6a5c-4869-40a8-6c3e3d1fa650>
+  PrefabRemaps:
+    []
+  Name: Left Eye
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 41814ea7-3f29-469b-7ebd-b559771c2ec2
+    - !<own> 101defb2-6ecd-443e-6c33-9e50b8275044
+  Components:
+    - !<own> 083f4661-0b0e-4814-44cf-6c3673701387
+- !<AssetImportMetadata/7466be43-7a34-78c7-5868-a3e1c92518b1>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 9ac3d6e2-dea8-467c-8414-4f20691d483e
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 9ac3d6e2-dea8-467c-8414-4f20691d483e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> ebec7503-06db-44c9-a830-b95ff8ee58d7
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/7753b400-9e25-d1ee-9cef-81c66e2eca09>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 8b3f4961-f053-4d00-8799-7d538828c459
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 8b3f4961-f053-4d00-8799-7d538828c459
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 8d4c846d-6439-4e8d-b2fb-dbabcf5b9089
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/7b127538-e39a-d70d-7fab-91757947b25a>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 22acaf9e-8d8a-4c44-8556-5057bbdd8fb3
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 22acaf9e-8d8a-4c44-8556-5057bbdd8fb3
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 5b1b9ca0-429a-4a24-9c30-64925be8c76f
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/7d08830f-0b34-460c-b6df-6e06a52e5fc6>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 13fa1d73-a7f5-4fad-b98b-22adbeba056b
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<TypeScriptAssetData/7d1a3fa7-8307-4733-9c7c-56e475888ed0>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 3dce034d-19b6-4bc8-9e7c-212d136f0160
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<AssetImportMetadata/7fad533d-2342-77d7-e281-7116b33d7594>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> d16048ad-210d-45e8-8b46-06e393296687
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> d16048ad-210d-45e8-8b46-06e393296687
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 5419c443-1b71-4237-98cd-6611305fb76b
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/7fbb3932-032e-1576-7e71-9824771a35bb>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 5d00708a-5ae1-4357-841c-132c8da79447
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 5d00708a-5ae1-4357-841c-132c8da79447
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 1c899b1b-2350-4fff-984e-952e1f0df3ec
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<Head/80ac16e8-37df-46b2-5432-606bed520897>
+  PrefabRemaps:
+    []
+  Name: Head Binding
+  Enabled: true
+  AttachmentPointType: HeadCenter
+  FaceIndex: 0
+  AttachedBarycentricVertex:
+    indices:
+      - 0
+      - 0
+      - 0
+    weights:
+      - 0.000000
+      - 0.000000
+      - 0.000000
+  TrackingScope: !<reference> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/80b398cc-0eb7-0bb1-f316-4353ec3ca62b>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> acf1f3f3-2012-48e1-a02e-5fa95b10dbc5
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> acf1f3f3-2012-48e1-a02e-5fa95b10dbc5
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 2372a2be-060e-414d-bfa7-b0c32022a041
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/8156c9c1-2608-4f38-5e0c-3a1131fad90d>
+  PrefabRemaps:
+    []
+  Name: ML Component_glasses
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 100.000015, y: 0.000000, z: 80.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 35a3e4e0-34b8-486e-4167-2d9a42605d5a
+- !<AssetImportMetadata/822a283b-0f8e-4f2a-4f76-9498a512b0d2>
+  ImportedAssetIds:
+    FileMLAsset: !<reference> 98336758-2ca8-402b-9fbc-113ad6c01741
+  ImporterName: FileMLAssetImporter
+  PrimaryAsset: !<reference> 98336758-2ca8-402b-9fbc-113ad6c01741
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<FileMLAssetImporterSettings>
+    Inputs:
+      - !<MLInput>
+        Name: image
+        Shape: {x: 128.000000, y: 128.000000, z: 1.000000}
+        Normalizations:
+          - scale: 1.000000
+            bias: 0.000000
+        Transformer:
+          stretch: true
+          alignment.horizontal: Center
+          alignment.vertical: Center
+          fill: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+          flipX: false
+          flipY: false
+          rotation: None
+        Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    Outputs:
+      - !<MLOutput>
+        Name: prob
+        Shape: {x: 1.000000, y: 1.000000, z: 1.000000}
+        Normalizations:
+          - scale: 1.000000
+            bias: 0.000000
+        InputName: ""
+        OutputTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/826f39ac-7a9d-4711-7ec9-8e0fa411f7e8>
+  PrefabRemaps:
+    []
+  Name: occluder_GEO
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 167.763504, z: 1.760475}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 11.105125, y: 11.105125, z: 11.105125}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 04a6b1e6-4cd7-4779-4a2d-8dd8a3598bdf
+- !<AssetImportMetadata/82ecde17-ac7e-3906-18cd-ca5696f4d146>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 8fa6db90-928d-4892-819b-38fba0368821
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 8fa6db90-928d-4892-819b-38fba0368821
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 340a1517-bacc-4ffe-9e04-d0d7aefddd46
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/830f2d04-e300-4c37-9bd9-fa26bd7c1ef2>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: a0983a75-5c81-442f-a63a-9d55ff534e7f
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    deviceTexture: false
+    head: false
+    ml: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - ml: !<reference.MLComponent> 00000000-0000-0000-0000-000000000000
+      head: !<reference.Head> 00000000-0000-0000-0000-000000000000
+      deviceTexture: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.MLComponent ml
+    - // @input Component.Head head
+    - // @input Asset.Texture deviceTexture
+- !<TypeScriptAssetData/84b305ae-59f6-4eea-b3bb-01f7c20062c6>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: b703bf8d-2e25-4100-9faa-85a520b4b54a
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/887d863b-2721-40ac-55d8-d75e8ed5fcb0>
+  PrefabRemaps:
+    []
+  Name: occluder_chest
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 0.800000, y: 0.800000, z: 0.800000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 43f682b4-abd9-4f77-5707-b1a0a412832e
+  Components:
+    - !<own> c97d30c8-9a10-424b-402e-a02a49e07d3c
+    - !<own> be558c54-d864-48f4-6e66-304c8a0c36bc
+- !<AssetImportMetadata/8ca838e0-a70f-a3ce-b4c9-69925b0a0410>
+  ImportedAssetIds:
+    RenderTarget: !<reference> 31f960bc-465c-4535-a9c0-c40927e5a4a4
+  ImporterName: RenderTargetImporter
+  PrimaryAsset: !<reference> 31f960bc-465c-4535-a9c0-c40927e5a4a4
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/8d4c846d-6439-4e8d-b2fb-dbabcf5b9089>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 8330c99f-d2b7-4022-a16c-b15fc79df6b6
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<AssetImportMetadata/8d8d0e73-2c47-5bfd-dde9-87bf1cef8976>
+  ImportedAssetIds:
+    FaceMesh: !<reference> 05c17eaf-9342-4559-8e98-594838a7267e
+  ImporterName: FaceMeshImporter
+  PrimaryAsset: !<reference> 05c17eaf-9342-4559-8e98-594838a7267e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/90f3a60c-690f-47a2-1894-4235d1344862>
+  ImportedAssetIds:
+    Material: !<reference> fa7544a3-6a96-4a46-bd89-281249f4e5ad
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> fa7544a3-6a96-4a46-bd89-281249f4e5ad
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/92c5d8a8-9314-4464-7039-7d72bec31509>
+  PrefabRemaps:
+    []
+  Name: projCam
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 40.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a9baae9a-3b6a-4ca6-5a38-0ce1fb434d6e
+- !<AssetImportMetadata/98194768-8647-bcbd-56d4-ea9d7be0e61e>
+  ImportedAssetIds:
+    Texture: !<reference> c1ad9d1f-6ce2-4ab3-aa15-763bccb00787
+  ImporterName: FaceCropTextureImporter
+  PrimaryAsset: !<reference> c1ad9d1f-6ce2-4ab3-aa15-763bccb00787
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/9c3467c1-4926-d7c2-5307-2dd2ded0def4>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> 74092b37-f97e-4563-9d0e-774158dff0e5
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 74092b37-f97e-4563-9d0e-774158dff0e5
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/9e3c1332-b3fd-49ea-b7f7-860837ea3b1d>
+  ImportedAssetIds:
+    FileMesh: !<reference> 97dc8cc5-2f2b-4827-8e9f-6cb5a6362b2a
+  ImporterName: FileMeshImporter
+  PrimaryAsset: !<reference> 97dc8cc5-2f2b-4827-8e9f-6cb5a6362b2a
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<FileMeshImporterSettings>
+    ModifiedVertexFormats:
+      normal: Float
+      position: Float
+      tangent: Float
+      texture0: Float
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/a1ade36e-756c-1d84-4818-62f0b31c6f71>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> e74215fc-dd2c-4e8f-9faa-802d51f0e098
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> e74215fc-dd2c-4e8f-9faa-802d51f0e098
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> acf0580f-7a38-4954-b5ed-97990a642e17
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/a20f3cd2-4eb5-fcab-db84-1c69183e2e19>
+  ImportedAssetIds:
+    FileMesh: !<reference> a0494147-c370-4019-8ebf-931e0f6b1bd8
+  ImporterName: FileMeshImporter
+  PrimaryAsset: !<reference> a0494147-c370-4019-8ebf-931e0f6b1bd8
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<FileMeshImporterSettings>
+    ModifiedVertexFormats:
+      boneData: Float
+      color: UNorm Byte
+      normal: Float
+      position: Float
+      tangent: Float
+      texture0: Float
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<Head/a553860e-da89-4855-528e-4f3eca558d45>
+  PrefabRemaps:
+    []
+  Name: Head Binding
+  Enabled: true
+  AttachmentPointType: RightEyeballCenter
+  FaceIndex: 0
+  AttachedBarycentricVertex:
+    indices:
+      - 0
+      - 0
+      - 0
+    weights:
+      - 0.000000
+      - 0.000000
+      - 0.000000
+  TrackingScope: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/a9887507-0bb3-451d-4b21-16fd73c389f5>
+  PrefabRemaps:
+    []
+  Name: ML Component_tongue
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -68.671654, y: -11.318619, z: 50.966148}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c0dfbec1-f67c-40cb-6d92-5d57df26f1f2
+- !<Camera/a9baae9a-3b6a-4ca6-5a38-0ce1fb434d6e>
+  PrefabRemaps:
+    []
+  Name: Camera
+  Enabled: true
+  renderLayer: 0
+  MipmapLevel: 0
+  RenderOrder: 2
+  Size: 20.000000
+  Near: 1.000000
+  Far: 1000.000000
+  Fov: 60.000004
+  ClearColor: !<CameraClearColor>
+    Mode: None
+    Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+    InputTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  ClearDepth: !<CameraClearDepth>
+    Mode: Value
+    Value: 1.000000
+    InputTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  Aspect: 1.000000
+  CameraType: Perspective
+  DepthMode: Regular
+  DeviceProperty: All
+  AspectPreset: Custom
+  OitLayers: NoOit
+  RenderTarget: !<reference> 31f960bc-465c-4535-a9c0-c40927e5a4a4
+  DepthStencilRenderTarget: !<reference> 00000000-0000-0000-0000-000000000000
+  MaskTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  RayTracing: !<reference> 00000000-0000-0000-0000-000000000000
+  DevicePropertiesSource: !<reference> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/aa62013a-b46e-3dd6-f912-c8a5d08ca995>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 878f5e78-82e0-404b-a867-32ed0a976381
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 878f5e78-82e0-404b-a867-32ed0a976381
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> b47deaef-5892-44af-b77e-ca23d965d543
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/abd39c91-84b3-4a30-7a13-c378ae32f6a0>
+  PrefabRemaps:
+    []
+  Name: C_neck_bind_JNT
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: -5.000000, z: 0.763276}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> c5c353b8-eeb5-4d28-4cc8-8975c1f9fcd9
+  Components:
+    []
+- !<TypeScriptAssetData/acf0580f-7a38-4954-b5ed-97990a642e17>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 787f31c4-8991-48c3-a35d-e1cabddedbd4
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<TypeScriptAssetData/b47deaef-5892-44af-b77e-ca23d965d543>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: e8d1cd0a-0c8e-480a-b676-4ed3d13db69e
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<TypeScriptAssetData/bb1f5347-be84-4af5-a68e-32cc05a5260f>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 41229b62-e11b-4181-b9fe-58fc50196736
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    occluderJoint: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - occluderJoint: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input SceneObject occluderJoint
+- !<ScriptComponent/bb27bdbb-5547-4048-6afa-a5f0bfbc6903>
+  PrefabRemaps:
+    []
+  Name: BitmojiFacePrefabInputs
+  Enabled: true
+  ScriptAsset: !<reference> 5d00708a-5ae1-4357-841c-132c8da79447
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      faceMesh: !<reference.RenderMeshVisual> 6c6ba70c-8ba6-4c9f-4ef6-f772d351b4ce
+      tongueML: !<reference.MLComponent> c0dfbec1-f67c-40cb-6d92-5d57df26f1f2
+      glassesML: !<reference.MLComponent> 35a3e4e0-34b8-486e-4167-2d9a42605d5a
+      head: !<reference.Head> 80ac16e8-37df-46b2-5432-606bed520897
+      mlController: !<MappingBased.AssignableType> 281870f2-07d3-4220-7b47-a83d96270ff6
+      leftEye: !<reference.SceneObject> 6ddd0031-6a5c-4869-40a8-6c3e3d1fa650
+      rightEye: !<reference.SceneObject> 38d9ee23-a98b-4bf7-73f7-786aed46a17e
+  ScriptTypes:
+    "":
+      {}
+- !<TypeScriptAssetData/bd597f98-d897-4ed4-aa43-d6d2a897927a>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: a3320cff-996a-4e06-ab05-fcf47ddb7f6f
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<ScriptComponent/be558c54-d864-48f4-6e66-304c8a0c36bc>
+  PrefabRemaps:
+    []
+  Name: OccluderPrefabInputs
+  Enabled: true
+  ScriptAsset: !<reference> ae1af779-86e3-48a3-8aa0-14dc46309266
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      occluderJoint: !<reference.SceneObject> 0eb067b3-4123-440a-468d-a2eaed2ed2ba
+  ScriptTypes:
+    "":
+      {}
+- !<MLComponent/c0dfbec1-f67c-40cb-6d92-5d57df26f1f2>
+  PrefabRemaps:
+    []
+  Name: ML Component
+  Enabled: true
+  RenderOrder: 0
+  AutoBuild: true
+  AutoRun: true
+  Inputs:
+    - !<MLInput>
+      Name: image
+      Shape: {x: 128.000000, y: 128.000000, z: 1.000000}
+      Normalizations:
+        - scale: 1.000000
+          bias: 0.000000
+      Transformer:
+        stretch: true
+        alignment.horizontal: Center
+        alignment.vertical: Center
+        fill: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        flipX: false
+        flipY: false
+        rotation: None
+      Texture: !<reference> ecce57d7-7e6f-44dd-b5c8-51ccd744c86c
+  Outputs:
+    - !<MLOutput>
+      Name: prob
+      Shape: {x: 1.000000, y: 1.000000, z: 1.000000}
+      Normalizations:
+        - scale: 1.000000
+          bias: 0.000000
+      InputName: ""
+      OutputTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  Model: !<reference> 98336758-2ca8-402b-9fbc-113ad6c01741
+- !<SceneObject/c5c353b8-eeb5-4d28-4cc8-8975c1f9fcd9>
+  PrefabRemaps:
+    []
+  Name: C_neck_end_JNT
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: -9.645900, z: 0.486903}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/c91d0860-0aef-49c6-6cab-10a35281fdd6>
+  PrefabRemaps:
+    []
+  Name: Choroid
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2b70ca48-2ba2-4234-4d01-d540d5f78bb5
+- !<Skin/c97d30c8-9a10-424b-402e-a02a49e07d3c>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  skinBones:
+    CHEST: !<reference> 43f682b4-abd9-4f77-5707-b1a0a412832e
+    C_head_bind_JNT: !<reference> 0eb067b3-4123-440a-468d-a2eaed2ed2ba
+    C_neck_bind_JNT: !<reference> abd39c91-84b3-4a30-7a13-c378ae32f6a0
+    occluder_chest_v2: !<reference> 887d863b-2721-40ac-55d8-d75e8ed5fcb0
+    C_neck_end_JNT: !<reference> c5c353b8-eeb5-4d28-4cc8-8975c1f9fcd9
+    geo_GRP: !<reference> d5866160-7ffa-484a-4bd1-68f07247e2ed
+    bind_GRP: !<reference> 0e29e758-1040-4922-4e63-12cc14fbb244
+    occluder_GEO: !<reference> 826f39ac-7a9d-4711-7ec9-8e0fa411f7e8
+- !<TypeScriptAssetData/cae382d4-4e81-4491-ae2f-6be75b64942c>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: dc25c016-6a02-496f-b74e-12cfca96727a
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<SceneObject/cc89850e-84dc-4afb-4264-ef5a543d008c>
+  PrefabRemaps:
+    []
+  Name: Eyeballs
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: -1.427490, z: -3.618286}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 0.900000, y: 0.900000, z: 0.900000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6ddd0031-6a5c-4869-40a8-6c3e3d1fa650
+    - !<own> 38d9ee23-a98b-4bf7-73f7-786aed46a17e
+  Components:
+    []
+- !<SceneObject/d5866160-7ffa-484a-4bd1-68f07247e2ed>
+  PrefabRemaps:
+    []
+  Name: geo_GRP
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 826f39ac-7a9d-4711-7ec9-8e0fa411f7e8
+    - !<own> 6a98c0ac-ac38-40d5-6754-ebda0e89ec83
+  Components:
+    []
+- !<AssetImportMetadata/d92d9713-f6f8-2981-f22c-fdc01d1ac3fb>
+  ImportedAssetIds:
+    FileMesh: !<reference> 56486bf7-6b81-4800-9977-892816042096
+  ImporterName: FileMeshImporter
+  PrimaryAsset: !<reference> 56486bf7-6b81-4800-9977-892816042096
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<FileMeshImporterSettings>
+    ModifiedVertexFormats:
+      normal: Float
+      position: Float
+      tangent: Float
+      texture0: Float
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/d9ead965-966c-d789-b8b1-b7057c9b1f9b>
+  ImportedAssetIds:
+    Texture: !<reference> ecce57d7-7e6f-44dd-b5c8-51ccd744c86c
+  ImporterName: FaceCropTextureImporter
+  PrimaryAsset: !<reference> ecce57d7-7e6f-44dd-b5c8-51ccd744c86c
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/de31e33a-2b5d-4ee7-45af-23a469e268b1>
+  PrefabRemaps:
+    []
+  Name: ML_holder
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 281870f2-07d3-4220-7b47-a83d96270ff6
+- !<RenderMeshVisual/e4ff136d-80d0-4014-5c06-d3835123aef7>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> cf8fc978-984f-46fa-a67b-d1550c3f595a
+  Mesh: !<reference> 97dc8cc5-2f2b-4827-8e9f-6cb5a6362b2a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<AssetImportMetadata/e7440eb4-ff22-93a4-189c-1a8f7865fb00>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 6e4288a5-8d67-45c2-be25-2fb6c360f098
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 6e4288a5-8d67-45c2-be25-2fb6c360f098
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 830f2d04-e300-4c37-9bd9-fa26bd7c1ef2
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/ebcb9987-c02a-54e5-b03b-79d109d0c150>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 3a44ff45-ae65-403a-8fd8-f653c80f0327
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 3a44ff45-ae65-403a-8fd8-f653c80f0327
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 7d1a3fa7-8307-4733-9c7c-56e475888ed0
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/ebec7503-06db-44c9-a830-b95ff8ee58d7>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: d50451be-136c-486f-8ce4-250c3ad8d938
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<ObjectPrefabAssetData/ebfa300c-ac98-4c76-a393-493470af3c63>
+  Prototype: !<ObjectOwner/b8128122-1631-46eb-b9a3-b697dc4a8920>
+    PackagePath: ""
+    objects:
+      - !<own> 0a7b852d-c3b6-46b1-7d8d-f72c1557bcce
+- !<RenderMeshVisual/ee2f09ae-fdd7-4f5f-7e10-fd3487154bb9>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> cf8fc978-984f-46fa-a67b-d1550c3f595a
+  Mesh: !<reference> 56486bf7-6b81-4800-9977-892816042096
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<TypeScriptAssetData/ef83be6c-0b11-4285-95ea-a3cf40ef34e3>
+  SvgIcon: |
+    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M23.5327 25.3346L23.7858 25.6776C24.4308 26.5519 23.9129 27.7983 22.8383 27.9582L18.9124 28.5424C16.9308 28.8373 14.9151 28.8169 12.9398 28.482L9.09866 27.8307C8.05238 27.6533 7.56876 26.428 8.21181 25.5838L8.48239 25.2286C9.47544 23.9249 11.122 23.2973 12.7309 23.6093C14.8302 24.0163 16.9877 24.0219 19.0891 23.6258L19.1535 23.6137C20.8226 23.299 22.5244 23.9678 23.5327 25.3346L24.3374 24.7409L23.5327 25.3346Z" fill="#D9D9D9" stroke="#D0DAE6" stroke-width="2" stroke-linecap="round"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 12.0003C11 11.2363 11.3767 10 12.6765 10C13.9763 10 14.353 11.2363 14.353 12.0003C14.353 12.764 13.9763 14 12.6765 14C11.3767 14 11 12.764 11 12.0003ZM19.3825 12.7923C18.7518 12.7923 18.358 12.874 18.1121 12.9743C17.9336 13.047 17.7392 12.9197 17.7679 12.7457C17.8923 11.9913 18.2663 10.7783 19.3825 10.7783C20.4987 10.7783 20.8727 11.9913 20.9972 12.7457C21.0259 12.9197 20.8314 13.047 20.6529 12.9743C20.407 12.874 20.0132 12.7923 19.3825 12.7923Z" fill="#FFDA00"/>
+    <path d="M8.01004 9.125C8.01004 7.18876 8.91237 5.69409 10.3536 4.65102C11.8194 3.59008 13.8506 3 16 3C18.1494 3 20.1806 3.59008 21.6464 4.65102C23.0876 5.69409 23.99 7.18876 23.99 9.125C23.99 9.36136 23.9923 9.60747 23.9947 9.86163C24.0033 10.7729 24.0129 11.7876 23.9196 12.8275C23.8003 14.1569 23.5204 15.3853 22.942 16.3158C22.786 16.5667 22.4385 16.9392 21.8933 17.3766C21.3644 17.8009 20.7066 18.2409 19.9946 18.6387C18.529 19.4576 17.0096 20 16 20C14.993 20 13.469 19.4496 11.9976 18.6242C11.2835 18.2236 10.6241 17.7818 10.0957 17.3588C9.54959 16.9216 9.20699 16.5547 9.05848 16.3158C8.48004 15.3853 8.20005 14.1568 8.08062 12.8274C7.98716 11.787 7.99673 10.7717 8.00533 9.86013C8.00772 9.60649 8.01004 9.36088 8.01004 9.125Z" stroke="#FFDA00" stroke-width="2"/>
+    <path d="M9 12C9 13.6569 9.10457 15 8 15C6.89543 15 5 13.5 5 12C5 10.5 5.22876 9 6.33333 9C7.4379 9 9 10.3431 9 12Z" fill="#FFDA00"/>
+    <path d="M23.0029 12C23.0029 13.6569 22.8984 15 24.0029 15C25.1075 15 27.0029 13.5 27.0029 12C27.0029 10.5 26.7742 9 25.6696 9C24.565 9 23.0029 10.3431 23.0029 12Z" fill="#FFDA00"/>
+    </svg>
+
+  SetupScript:
+    code: ""
+  Description: |
+    Bitmoji Head
+    
+    The Bitmoji Head component animates a Bitmoji's head and mirrors the user's facial expressions in real-time.
+    
+    Usage:
+    Add to a scene and put Bitmoji 3D component that can be downloaded from the Asset Library.
+    Ensure that the Bitmoji Head component is set to the same render layer as the Bitmoji 3D component.
+    
+    To move the head, you need to adjust the Bitmoji 3D object's transform, as the Bitmoji Head only controls the animations.
+    
+    If you select `Attach To Head`, the Bitmoji Head will automatically attach to and follow the user's head movements.
+    If you do not select `Attach To Head`, manually position the Bitmoji 3D component within the scene as needed.
+
+  VersionMajor: 2
+  VersionMinor: 1
+  VersionPatch: 0
+  ComponentUid: d00a655f-28c5-4a95-a336-8a6a3c3a8237
+  ExportUid: 385ef0fb-b633-40e0-9da0-c807c3977b37
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    attachToHead: false
+    bitmoji3D: false
+    bitmojiFacePrefab: true
+    camera: false
+    disableBody: false
+    occluderPrefab: true
+    rotateHead: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - bitmoji3D: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      camera: !<reference.Camera> 00000000-0000-0000-0000-000000000000
+      disableBody: false
+      attachToHead: false
+      rotateHead: false
+      bitmojiFacePrefab: !<reference.ObjectPrefab> e2199036-2c1b-481f-8062-de1aa60d4123
+      occluderPrefab: !<reference.ObjectPrefab> c6debc0d-c366-4374-9e3d-14801f938194
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input Component.ScriptComponent bitmoji3D {"label":"Bitmoji 3D"}'
+    - // @input Component.Camera camera
+    - '// @ui {"widget":"separator"}'
+    - // @input bool disableBody
+    - // @input bool attachToHead
+    - '// @input bool rotateHead {"label":"Rotate With Head", "showIf":"attachToHead", "showIfValue":false}'
+    - // @input Asset.ObjectPrefab bitmojiFacePrefab
+    - // @input Asset.ObjectPrefab occluderPrefab
+- !<SceneObject/f31a53f6-3772-4f3e-7276-a6adadccef0c>
+  PrefabRemaps:
+    []
+  Name: ML_components
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 00598bbf-8366-4938-624a-73e5596db3c4
+    - !<own> a9887507-0bb3-451d-4b21-16fd73c389f5
+    - !<own> 8156c9c1-2608-4f38-5e0c-3a1131fad90d
+  Components:
+    []
+- !<MLComponent/f7f8fc02-8897-49bb-724c-64199f0881b4>
+  PrefabRemaps:
+    []
+  Name: ML Component
+  Enabled: true
+  RenderOrder: 3
+  AutoBuild: true
+  AutoRun: true
+  Inputs:
+    - !<MLInput>
+      Name: landmarks+camera
+      Shape: {x: 1.000000, y: 1.000000, z: 139.000000}
+      Normalizations:
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+      Transformer: ~
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+  Outputs:
+    - !<MLOutput>
+      Name: predictions
+      Shape: {x: 1.000000, y: 1.000000, z: 117.000000}
+      Normalizations:
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+        - scale: 1.000000
+          bias: 0.000000
+      InputName: ""
+      OutputTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  Model: !<reference> 72dae941-ebb5-40de-bd1e-b106e75a2d2e
+- !<AssetImportMetadata/feae732d-4d70-3fd5-023e-b6662a2c440d>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> b0138618-ca32-418f-8b5b-56504b65fc14
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> b0138618-ca32-418f-8b5b-56504b65fc14
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 257c9781-be25-4b68-ab4c-b09c6a0b5b4f
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

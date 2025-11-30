@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    e0b9fafb-f11c-4b45-ab9a-330847ec2e3e: 630420f9-e415-42a6-9829-c342ff77e7d4/84b5ea3976a187432ded5ea33b2b9fb1/Data/mixkit-short-bass-hit-2299.wav
+  Assets:
+    - !<FileAudioTrack/e0b9fafb-f11c-4b45-ab9a-330847ec2e3e>
+      PackagePath: ""
+  SourceHash: 84b5ea3976a187432ded5ea33b2b9fb1
+  FileHash: 06ac51913d25da82a2660b59ec8d41ac
+  NativePackageItems:
+    []

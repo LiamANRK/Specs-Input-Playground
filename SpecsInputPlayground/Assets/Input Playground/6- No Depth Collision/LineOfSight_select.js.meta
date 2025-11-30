@@ -1,0 +1,50 @@
+- !<AssetImportMetadata/93ea3c8d-6e99-45cf-adee-eb4b142fa9b2>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 335697f1-a6b4-4d35-b4e2-1db48c5bff55
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 335697f1-a6b4-4d35-b4e2-1db48c5bff55
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 6b4b7377-3b16-487d-b847-d725725fe435
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/6b4b7377-3b16-487d-b847-d725725fe435>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 06448c7e-b33f-4a90-8571-a7deae7e450b
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    blockSound: false
+    debugLogs: false
+    headObject: false
+    rayRadius: false
+    selectedScale: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - headObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      rayRadius: !<float> 8.000000
+      selectedScale: 1.200000
+      blockSound: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      debugLogs: false
+  ScriptTypes:
+    -
+      {}

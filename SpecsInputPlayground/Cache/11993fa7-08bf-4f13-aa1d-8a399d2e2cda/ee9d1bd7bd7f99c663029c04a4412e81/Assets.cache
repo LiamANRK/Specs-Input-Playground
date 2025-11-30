@@ -1,0 +1,416 @@
+- !<AssetCache>
+  AssetFiles:
+    {}
+  Assets:
+    []
+  SourceHash: ee9d1bd7bd7f99c663029c04a4412e81
+  FileHash: 120789a2bcb303c3f152431e6a5b875a
+  NativePackageItems:
+    - !<own> 7c0eadef-7a6a-33bd-30fe-775d5cf7464a
+    - !<own> 2d818cd2-d496-c21c-ca8d-00aa38cca029
+    - !<own> f89fc429-9d5f-29c0-fa21-e0648df53b49
+    - !<own> 0bc82b6a-62b4-4fed-9306-9333b1cb5880
+    - !<own> b4d07911-f41c-3a23-e2a9-5a0694e82d10
+    - !<own> 94267a09-1c47-84de-f1bf-99dd3e2df825
+    - !<own> 3b1cec5d-4090-5466-4ae4-4965253b6fe3
+    - !<own> 85f1a091-9c92-c6bb-94e5-eee8c4a7bfcc
+    - !<own> 80ba356a-d431-50a6-4b37-c42f1fff529d
+    - !<own> 7ad85a22-73c2-df19-d2b3-6a4fce61c809
+    - !<own> 398745d0-becb-307e-bd83-93d8ea136ec9
+    - !<own> 33214024-98c2-80b4-3fc9-28d741563ca4
+- !<TypeScriptAssetData/0955e849-2b7a-4566-b603-a3be2853e3a2>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: TS implementation of Events Module
+  VersionMajor: 2
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 12d25ad6-bcf9-4215-8278-fcff07eedffe
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<AssetImportMetadata/0bc82b6a-62b4-4fed-9306-9333b1cb5880>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> bfb163f0-9ab8-4844-90c2-1ca52667e59f
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> bfb163f0-9ab8-4844-90c2-1ca52667e59f
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/1155a393-d9d4-4690-9230-4872bd97c62d>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 2
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 4a463a4e-c60c-499a-9728-c8db9fec16b4
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<Image/27a46bff-b394-439c-6b7f-7cecad0e4e3b>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 405d384e-9453-43b6-9f86-36d73c07c1a6
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/2d818cd2-d496-c21c-ca8d-00aa38cca029>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> 9e6cfe08-cda7-40ae-9b05-d8a5ebf3e135
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 9e6cfe08-cda7-40ae-9b05-d8a5ebf3e135
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/33214024-98c2-80b4-3fc9-28d741563ca4>
+  ImportedAssetIds:
+    NativePackageDescriptor: !<reference> 84392730-13c1-4849-84f2-ac75103f2649
+  ImporterName: NativePackageDescriptorImporter
+  PrimaryAsset: !<reference> 84392730-13c1-4849-84f2-ac75103f2649
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/398745d0-becb-307e-bd83-93d8ea136ec9>
+  ImportedAssetIds:
+    Material: !<reference> 40b3147b-e211-4919-9ba0-bedd05c60132
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> 40b3147b-e211-4919-9ba0-bedd05c60132
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/3b1cec5d-4090-5466-4ae4-4965253b6fe3>
+  ImportedAssetIds:
+    Texture: !<reference> 872f0f4a-4987-49dc-9107-bbdd51d69cf1
+  ImporterName: ScreenTextureImporter
+  PrimaryAsset: !<reference> 872f0f4a-4987-49dc-9107-bbdd51d69cf1
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/4e01caba-9f69-4bfe-9075-c31c4a6054b3>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: b77f2cea-c447-4824-9943-e2c0cd89df13
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+- !<ObjectPrefabAssetData/69471207-6550-4322-b2fc-6f9fd6f0f85e>
+  Prototype: !<ObjectOwner/9bdff887-22f1-4d45-9c64-207d46ad2962>
+    PackagePath: ""
+    objects:
+      - !<own> e9468ba6-aeb2-4a2f-4837-4d9c8f72f5a1
+- !<TypeScriptAssetData/7432801c-3322-452f-8434-ee19587bf474>
+  SvgIcon: |
+    <svg width="108" height="123" viewBox="0 0 108 123" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M84.5195 0C97.2501 0 107.57 10.3202 107.57 23.0508V76.8359C107.57 89.5666 97.2502 99.8867 84.5195 99.8867H71.7139C70.0514 99.8867 68.4335 100.426 67.1035 101.424L38.418 122.938V107.57C38.4178 103.327 34.9778 99.8867 30.7344 99.8867H23.0508C10.3202 99.8867 0 89.5665 0 76.8359V23.0508C3.47708e-05 10.3202 10.3202 3.55652e-05 23.0508 0H84.5195ZM23.167 53.7852C23.0901 54.6002 23.0508 55.4254 23.0508 56.2588C23.0508 71.8667 36.8111 84.5195 53.7852 84.5195C70.7593 84.5195 84.5195 71.8667 84.5195 56.2588C84.5195 55.4376 84.4819 54.6247 84.4072 53.8213C65.9298 53.8485 56.0245 53.8297 45.9023 53.8105C39.2496 53.798 32.503 53.7852 23.167 53.7852ZM34.5762 23.0508C28.211 23.0508 23.051 28.4619 23.0508 35.1367C23.0508 39.3854 25.1414 38.6709 28.3027 37.5898C30.108 36.9725 32.2625 36.2354 34.5762 36.2354C36.8898 36.2354 39.0443 36.9725 40.8496 37.5898C44.011 38.6709 46.1016 39.3855 46.1016 35.1367C46.1014 28.4618 40.9414 23.0508 34.5762 23.0508ZM72.9941 15.3672C66.6289 15.3673 61.4688 20.5274 61.4688 26.8926C61.4688 33.2578 66.6289 38.4179 72.9941 38.418C79.3595 38.418 84.5195 33.2579 84.5195 26.8926C84.5195 20.5273 79.3594 15.3672 72.9941 15.3672Z" fill="white"/>
+    </svg>
+
+  SetupScript:
+    code: ""
+  Description: |-
+    Bitmoji 3D allows you to easily download the 3D avatar of a Snapchat user, their friends, or their AI assistant, and add it to the scene. 
+    
+    See README for more information.
+  VersionMajor: 8
+  VersionMinor: 3
+  VersionPatch: 0
+  ComponentUid: 0005e0cc-4592-ac28-0000-000000067b6a
+  ExportUid: faa53730-3d19-4023-ad79-3d5360a83bb5
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    autoDownload: false
+    autoMention: false
+    bitmojiType: false
+    castShadow: false
+    friendIndex: false
+    friendsComponent: false
+    loaderPrefab: true
+    materialHolder: true
+    mixamoAnimation: false
+    printDebug: true
+    renderOrder: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> fa18c216-d740-4ddd-acb4-8cfe095af07c
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - bitmojiType: !<float> 0.000000
+      friendsComponent: !<reference.Component> 00000000-0000-0000-0000-000000000000
+      friendIndex: 0
+      mixamoAnimation: true
+      autoDownload: true
+      renderOrder: 0
+      castShadow: true
+      autoMention: true
+      materialHolder: !<reference.Material> 40b3147b-e211-4919-9ba0-bedd05c60132
+      printDebug: false
+      loaderPrefab: !<reference.ObjectPrefab> 3642f110-de5e-4fcd-9cf9-bdd9164d8108
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input float bitmojiType {"widget":"combobox", "values":[{"label":"None", "value":-1}, {"label":"Me", "value":0}, {"label":"My Friend", "value":1}, {"label":"My AI", "value":2}]}'
+    - '// @input Component friendsComponent {"hint":"Optional: \nInstall Friends Custom Component from Asset Library\nAdd it to Scene \nReference added component here", "showIf":"bitmojiType", "showIfValue":"1"}'
+    - '// @input int friendIndex {"showIf":"bitmojiType", "showIfValue":"1"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @input bool mixamoAnimation = true {"label":"Adapt to Mixamo", "hint":"Adapt to a Mixamo style rig"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @input bool autoDownload = true {"hint":"download using Bitmoji.download() api instead"}'
+    - '// @ui {"widget":"separator"}'
+    - // @input int renderOrder
+    - '// @input bool castShadow = true {"hint":"To see this in action add shadow plane and enable shadows on the light source"}'
+    - '// @ui {"widget":"separator"}'
+    - "// @input bool autoMention = true {\"hint\":\"Mention owner in recoded snap. Note - if enabled for multiple - last downloaded avatar's owner will be mentioned.\"}"
+    - // @input Asset.Material materialHolder
+    - // @input bool printDebug = true
+    - // @input Asset.ObjectPrefab loaderPrefab
+- !<AssetImportMetadata/7ad85a22-73c2-df19-d2b3-6a4fce61c809>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> eaed9465-3a01-4092-8f24-103a40681305
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> eaed9465-3a01-4092-8f24-103a40681305
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 0955e849-2b7a-4566-b603-a3be2853e3a2
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/7c0eadef-7a6a-33bd-30fe-775d5cf7464a>
+  ImportedAssetIds:
+    Material: !<reference> 405d384e-9453-43b6-9f86-36d73c07c1a6
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> 405d384e-9453-43b6-9f86-36d73c07c1a6
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/80ba356a-d431-50a6-4b37-c42f1fff529d>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 3466f0bd-f357-4644-9204-4e2a672c2aa1
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 3466f0bd-f357-4644-9204-4e2a672c2aa1
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    AssetLibraryId: 6UpvDKXAxFjiYd0bdW5w49
+  AssetDataMap:
+    JavaScriptAsset: !<own> 4e01caba-9f69-4bfe-9075-c31c4a6054b3
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/85f1a091-9c92-c6bb-94e5-eee8c4a7bfcc>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> b3db8aea-f201-44c4-ab3c-b03f7e6cc5c2
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> b3db8aea-f201-44c4-ab3c-b03f7e6cc5c2
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 1155a393-d9d4-4690-9230-4872bd97c62d
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/94267a09-1c47-84de-f1bf-99dd3e2df825>
+  ImportedAssetIds:
+    MarkdownAsset: !<reference> fa18c216-d740-4ddd-acb4-8cfe095af07c
+  ImporterName: MarkdownAssetImporter
+  PrimaryAsset: !<reference> fa18c216-d740-4ddd-acb4-8cfe095af07c
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/b4d07911-f41c-3a23-e2a9-5a0694e82d10>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 7a3c78c1-4ff4-41a1-9f38-a2b9e6360f03
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 7a3c78c1-4ff4-41a1-9f38-a2b9e6360f03
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 7432801c-3322-452f-8434-ee19587bf474
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<LookAtComponent/b616f24e-55dd-4b8a-4315-15fde65bf22c>
+  PrefabRemaps:
+    []
+  Name: Look At
+  Enabled: true
+  LookAtMode: LookAtDirection
+  AimVectors: ZAimYUp
+  WorldUpVector: ObjectY
+  Target: !<reference> 00000000-0000-0065-0000-000000000064
+  OffsetRotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+- !<SceneObject/e9468ba6-aeb2-4a2f-4837-4d9c8f72f5a1>
+  PrefabRemaps:
+    []
+  Name: Loader
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 50.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 20.000000, y: 20.000000, z: 20.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 27a46bff-b394-439c-6b7f-7cecad0e4e3b
+    - !<own> b616f24e-55dd-4b8a-4315-15fde65bf22c
+- !<AssetImportMetadata/f89fc429-9d5f-29c0-fa21-e0648df53b49>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 3642f110-de5e-4fcd-9cf9-bdd9164d8108
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 3642f110-de5e-4fcd-9cf9-bdd9164d8108
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> 69471207-6550-4322-b2fc-6f9fd6f0f85e
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

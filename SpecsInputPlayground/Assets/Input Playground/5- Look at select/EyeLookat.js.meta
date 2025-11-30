@@ -1,0 +1,50 @@
+- !<AssetImportMetadata/64405069-4a7a-40c0-9634-6066633bfaa9>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 45ae5f38-bc7f-41ec-97ac-50f10a46f318
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 45ae5f38-bc7f-41ec-97ac-50f10a46f318
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 034ca12b-3190-40a0-aee8-66c6535ab39f
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/034ca12b-3190-40a0-aee8-66c6535ab39f>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: ad573163-cfa7-4c96-8a15-8ed867781731
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    debugNoHit: false
+    headObject: false
+    lookScale: false
+    rayDistance: false
+    rayRadius: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - headObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      rayDistance: !<float> 150.000000
+      rayRadius: !<float> 10.000000
+      lookScale: 1.200000
+      debugNoHit: false
+  ScriptTypes:
+    -
+      {}

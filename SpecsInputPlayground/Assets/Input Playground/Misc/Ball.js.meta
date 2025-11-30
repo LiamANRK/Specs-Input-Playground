@@ -1,0 +1,74 @@
+- !<AssetImportMetadata/f70d7345-9f4d-4cb1-93f6-95d84423ecec>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 711a8f92-b367-4988-96a9-5054d572bc4a
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 711a8f92-b367-4988-96a9-5054d572bc4a
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> cfd61567-ded9-4700-849c-6ea8ad0c5f23
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/cfd61567-ded9-4700-849c-6ea8ad0c5f23>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 9e299db2-6580-4d38-be0a-66a6b1eb6503
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    anchorParent: false
+    antiTrapAngleDeg: false
+    antiTrapOffset: false
+    antiTrapOppositeDot: false
+    antiTrapWindow: false
+    bounce: false
+    driftAccel: false
+    driftMaxAdd: false
+    invertDrift: false
+    maxSpeed: false
+    minIncidenceDot: false
+    minReboundSpeed: false
+    minSpeed: false
+    paddleName: false
+    preserveSpeed: false
+    tangentDamping: false
+    zeroLocalYAlways: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - anchorParent: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      bounce: !<float> 1.000000
+      tangentDamping: 0.250000
+      minReboundSpeed: !<float> 180.000000
+      minIncidenceDot: 0.100000
+      minSpeed: !<float> 60.000000
+      maxSpeed: !<float> 1200.000000
+      preserveSpeed: true
+      zeroLocalYAlways: true
+      paddleName: Paddle
+      antiTrapWindow: 0.120000
+      antiTrapAngleDeg: !<float> 6.000000
+      antiTrapOffset: 0.010000
+      antiTrapOppositeDot: -0.980000
+      driftAccel: !<float> 30.000000
+      invertDrift: false
+      driftMaxAdd: !<float> 300.000000
+  ScriptTypes:
+    -
+      {}
