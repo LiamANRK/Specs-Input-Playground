@@ -37,12 +37,8 @@ This benefits users with limited hand mobility, unreliable hand tracking, or sit
 
 Lateral body movement is an effective way to introduce exertion and physicality without requiring full-body tracking.
 
-By measuring the horizontal position of the user’s head, the system can infer which "lane" the player is in. This supports mechanics such as:
+By measuring the horizontal position of the user’s head, the system can infer where the player is.
 
-- Leaning left or right to switch lanes  
-- Weaving as a rhythm or dodging action  
-
-This provides meaningful physical engagement while relying only on head tracking, which is reliable on current AR devices.
 
 ---
 
