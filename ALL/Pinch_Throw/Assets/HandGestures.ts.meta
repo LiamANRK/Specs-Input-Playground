@@ -1,0 +1,80 @@
+- !<AssetImportMetadata/a9ff017c-d90e-40fb-8e4f-cafef7b65820>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 63831a46-750e-4625-b9d5-be7fd8995b65
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 63831a46-750e-4625-b9d5-be7fd8995b65
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> d860c5cd-0311-4008-a68e-3a16dc7395c5
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/d860c5cd-0311-4008-a68e-3a16dc7395c5>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: fab92645-ebd7-4ccb-ba7a-850bc91d0f60
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    allowX: false
+    allowY: false
+    allowZ: false
+    baseIndicatorLength: false
+    debugMode: false
+    directionIndicator: false
+    forceMultiplier: false
+    indicatorScaleMultiplier: false
+    lockToAxes: false
+    maxIndicatorLength: false
+    maxPullDistance: false
+    minPullDistance: false
+    physicsObject: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - physicsObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      directionIndicator: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      forceMultiplier: !<float> 5.000000
+      maxPullDistance: !<float> 1.000000
+      minPullDistance: 0.050000
+      baseIndicatorLength: !<float> 10.000000
+      indicatorScaleMultiplier: !<float> 20.000000
+      maxIndicatorLength: !<float> 50.000000
+      lockToAxes: false
+      allowX: true
+      allowY: true
+      allowZ: true
+      debugMode: true
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input SceneObject physicsObject {"hint":"The object with Physics Body Component to throw - REQUIRED"}'
+    - '// @input SceneObject directionIndicator {"hint":"Arrow or object that shows throw direction (hidden when not aiming)"}'
+    - '// @input float forceMultiplier = 50 {"hint":"How hard to throw (higher = further)"}'
+    - "// @input float maxPullDistance = 1 {\"hint\":\"Maximum pull distance - pulling further won't increase power\"}"
+    - '// @input float minPullDistance = 0.05 {"hint":"Minimum pull distance to register a throw"}'
+    - '// @input float baseIndicatorLength = 10 {"hint":"Base length of direction indicator"}'
+    - '// @input float indicatorScaleMultiplier = 20 {"hint":"How much indicator grows as you pull"}'
+    - '// @input float maxIndicatorLength = 50 {"hint":"Maximum indicator length"}'
+    - '// @input bool lockToAxes {"hint":"Lock throw to specific axes"}'
+    - '// @input bool allowX = true {"hint":"Allow left/right throwing", "showIf":"lockToAxes"}'
+    - '// @input bool allowY = true {"hint":"Allow up/down throwing", "showIf":"lockToAxes"}'
+    - '// @input bool allowZ = true {"hint":"Allow forward/back throwing", "showIf":"lockToAxes"}'
+    - '// @input bool debugMode = true {"hint":"Print extra debug info to console"}'

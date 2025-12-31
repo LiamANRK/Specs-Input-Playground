@@ -1,0 +1,62 @@
+- !<AssetImportMetadata/8dbc4821-f2fa-48fa-8d90-b511fb7b23d9>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 83060d1f-15e0-43cb-89d0-51fbef1b30cf
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 83060d1f-15e0-43cb-89d0-51fbef1b30cf
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 9759ce11-8710-4a7a-b297-2eca544ce3dd
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/9759ce11-8710-4a7a-b297-2eca544ce3dd>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: bb718d4a-670c-bf42-9e85-096adeacd4b6
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    allowHandTracking: false
+    allowSIK: false
+    allowTap: false
+    allowTapDelivery: false
+    cam: false
+    distFromCamera: false
+    handLeft: false
+    handRight: false
+    hover: false
+    stabilityFrames: false
+    syncCombined: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - allowTap: false
+      allowTapDelivery: false
+      cam: !<reference.Camera> 00000000-0000-0000-0000-000000000000
+      distFromCamera: !<float> 50.000000
+      hover: false
+      allowHandTracking: false
+      handLeft: !<reference.ObjectTracking3D> 00000000-0000-0000-0000-000000000000
+      handRight: !<reference.ObjectTracking3D> 00000000-0000-0000-0000-000000000000
+      stabilityFrames: 3
+      allowSIK: false
+      syncCombined: false
+  ScriptTypes:
+    -
+      {}
